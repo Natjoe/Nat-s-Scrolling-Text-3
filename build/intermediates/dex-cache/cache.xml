@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_4c35d8600328a793571acc64e784fa58097f8844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cdd2d54ba907f70dd59c7ba0b73a7cdd072616a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b64dd874df9a871615c8e98af331fe562d1e7649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_01b57ccf1f4ee78bd64f322969c096cad476c980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f92a279d9822ea1ae87eb3b4900926c5a1d149f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_8d05c1c30a8abbe21d1de9c2867d47d75e1f686d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_4bd9f561f9d2cc3e073cdc46de4c7fca01651596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_e6d0b12efa0a60286d7af5bfa3a6ac5e0e738613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_b42014e58e52bf4fb9e1a80243a64e8fdfbc9d44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.0.1\a09194311f8f89c3e6db09d79f50897a889d615e\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_351ccf3b7d7527c451aa095014712a886f5c1284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f389a4ce4553a5b4ffe87473498febf7bd69d37a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_0fc996fd90bc36f034860cd55c443320a9074f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_e8cfb98586a5886767c7013ad76e36a6fc3c320e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_51e00b0be2f0bbbc16f42379c60df496e7c63857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Nathaniel Williams\Downloads\android-fundamentals-master1\ScrollingText3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a13c0e1d58aa0d76f47019da18082f1ef7ff5887.jar" />
+    </item>
+
+</items>
